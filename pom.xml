@@ -7,9 +7,9 @@
 		<version>2.2.1.RELEASE</version> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.dcc</groupId>
-	<artifactId>springbatchexamples</artifactId>
+	<artifactId>sbe-db-to-file</artifactId>
 	<version>1.0-SNAPSHOT</version>
-	<name>springbatchexamples</name>	
+	<name>sbe-db-to-file</name>	
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
